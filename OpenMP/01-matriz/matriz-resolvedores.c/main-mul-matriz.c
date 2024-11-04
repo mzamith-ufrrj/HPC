@@ -78,8 +78,9 @@ void matrix_multi(Matrix *  __restrict__ C,
                   double * __restrict__ elapsedtime,
                   unsigned int nThreads){
 
-
-
+     #pragma omp parallel 
+     {
+	#pragma omp for
         for (int j = 0; j < C->n; j++){
             for (int i = 0; i < C->m; i++){
                 double c = 0.0f;
@@ -94,6 +95,7 @@ void matrix_multi(Matrix *  __restrict__ C,
             }//end-for (int j = 0; j < mLattice->height; j++){
 
         }//end-void InitRandness(tpLattice *mLattice, float p){
+      }
 }
 // ./multi-mat-cpu.exec r2000x2000.bin i2000x2000.bin resultado.bin 4
 int main (int ac, char **av){

@@ -1,1 +1,4 @@
-# HPC - OPENMP
+# HPC - sources in:
+   - OpenMP
+   - CUDA
+

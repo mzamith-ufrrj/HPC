@@ -163,7 +163,7 @@ int main (int ac, char **av){
     X1.m = B.n;
     X1.n = B.m;
 
-    gaussSolverMethod(elapsedtime, &X1.vetor, &A, &B, nThreads);
+    luSolverMethod(elapsedtime, &X1.vetor, &A, &B, nThreads);
     saveBinary(&X1, filename_X);
 
 
