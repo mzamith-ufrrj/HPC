@@ -1,0 +1,10 @@
+/home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/target/debug/deps/rand_core-e165bfd2fe8cddc5.rmeta: /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/target/debug/deps/rand_core-e165bfd2fe8cddc5.d: /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs:

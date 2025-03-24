@@ -1,4 +1,4 @@
-# HPC - sources in:
+# HPC - FONTES EM:
    - OpenMP
    - CUDA
 

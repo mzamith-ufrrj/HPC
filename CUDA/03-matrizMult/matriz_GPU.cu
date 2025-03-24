@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#define BLOCK_SIZE 4
+#define BLOCK_SIZE 32
 
 
 
@@ -185,10 +185,10 @@ int main (int argc, char **argv){
 
 //   printMatrix(h_A, WIDTH, HEIGHT);
    if (strcmp(memType, "shared") == 0){
-      printf(" s ");
+      printf(" s \n");
       multMatrixS <<<numBlocks, threadsPerBlock >>> (d_C, d_A, d_B, width);
    }else{
-     printf(" g ");
+     printf(" g \n");
      multMatrixG <<<numBlocks, threadsPerBlock >>> (d_C, d_A, d_B, width);
   }
    CHECK_ERROR(cudaDeviceSynchronize());
@@ -212,7 +212,7 @@ int main (int argc, char **argv){
    printf("Tempo gasto [MEM]: %lf (ms) \n", elapsedTimeMEM);
    printf("Tempo gasto [GPU]: %lf (ms) \n", elapsedTimeGPU);
    printf("Resultado:\n");
-   printMatrix(h_C, width, height);
+   //printMatrix(h_C, width, height);
  
    
    CHECK_ERROR(cudaFree(d_A));  //Liberando memorias GPU e CPU

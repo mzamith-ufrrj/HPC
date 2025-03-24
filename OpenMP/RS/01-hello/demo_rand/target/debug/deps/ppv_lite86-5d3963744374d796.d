@@ -1,0 +1,11 @@
+/home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/target/debug/deps/ppv_lite86-5d3963744374d796.rmeta: /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/target/debug/deps/libppv_lite86-5d3963744374d796.rlib: /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/target/debug/deps/ppv_lite86-5d3963744374d796.d: /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs:
+/home/marcelo/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs:

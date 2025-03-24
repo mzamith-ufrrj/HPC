@@ -1,0 +1,1 @@
+/home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/target/debug/demo_rand: /home/marcelo/Documents/02-Trabalhos/03.Develop/HPC/HPC-OpenMP/01-codigos/OpenMP/RS/01-hello/demo_rand/src/main.rs
