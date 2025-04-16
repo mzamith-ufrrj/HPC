@@ -1,0 +1,12 @@
+#https://stackoverflow.com/questions/59055291/problem-installing-factoextra-package-in-r
+#https://www.datanovia.com/en/lessons/k-means-clustering-in-r-algorith-and-practical-examples/
+#https://smolski.github.io/livroavancado/analise-de-clusters.html
+rm(list = ls())
+library(factoextra)
+data("USArrests")      # Loading the data set
+df <- scale(USArrests) # Scaling the data
+print(head(df, n=3))
+# Compute k-means with k = 4
+set.seed(123)
+km.res <- kmeans(df, 4, nstart = 25)
+print(km.res)

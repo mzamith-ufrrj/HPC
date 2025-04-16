@@ -1,0 +1,28 @@
+{
+    "id": "33A8C992",
+    "path": "~/Documents/Develop/C++/HPC/exemplos/aplicacoes/ncorpos/R/grafico-comparativo.R",
+    "project_path": "grafico-comparativo.R",
+    "type": "r_source",
+    "hash": "3855819634",
+    "contents": "",
+    "dirty": false,
+    "created": 1726248219327.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,50",
+        "scrollLine": "10",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1726251847,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1726251847661,
+    "read_only": false,
+    "read_only_alternatives": []
+}
