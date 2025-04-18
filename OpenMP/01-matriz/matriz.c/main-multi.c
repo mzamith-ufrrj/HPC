@@ -3,7 +3,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <string.h>
-#include <omp.h>
+//#include <omp.h>
 #include <assert.h>
 #define STRING_SIZE 256
 #define ALIGN       64
@@ -94,7 +94,7 @@ void matrix_multi(tpMatrix *  C,
                   tpMatrix *  A,
                   tpMatrix *  B){
 
-        #pragma omp parallel for
+        //#pragma omp parallel for
         for (unsigned int j = 0; j < C->n; j++){
             for (unsigned int i = 0; i < C->m; i++){
                 double c = 0.0f;

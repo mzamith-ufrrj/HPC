@@ -1,6 +1,6 @@
 EXEFILE   = m_mult.exec
 CPUCC     = gcc
-CPPFLAGS  =  -O2 -fopenmp
+CPPFLAGS  =  -O2 #-fopenmp
 DEFS      =
 INCLUDES  =
 LIBDIR    =
